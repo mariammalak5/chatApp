@@ -76,6 +76,7 @@ class ChatPage extends StatelessWidget {
                 duration: const Duration(milliseconds: 50),
                 curve: Curves.easeIn,
               );
+
             },
             // actions: [
             //   InkWell(
